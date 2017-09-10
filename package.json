@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "dev": "webpack && npm start",
-    "build" : "webpack"
+    "build": "webpack"
   },
   "author": "",
   "devDependencies": {
